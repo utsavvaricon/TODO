@@ -1,0 +1,2 @@
+class TitleCannotBeEmpty(Exception):
+    pass
